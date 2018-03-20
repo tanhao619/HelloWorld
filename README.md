@@ -1,5 +1,6 @@
 # HAipproxy
 [README](README_EN.md)　｜　[中文文档](README.md)
+项目引用自：https://github.com/SpiderClub/haipproxy，仅供个人学习之用。
 
 本项目所采集的IP资源都来自互联网，愿景是为大型爬虫项目提供一个**高可用低延迟的高匿IP代理池**。
 
